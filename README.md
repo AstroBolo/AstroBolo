@@ -1,4 +1,4 @@
-##Hi im AstroBolo/Cyber Coding the creator of projects like H.A.L and more
+#Hi im AstroBolo/Cyber Coding the creator of projects like H.A.L and more
 
 #
 # Stats
