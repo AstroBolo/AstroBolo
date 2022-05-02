@@ -13,5 +13,5 @@ Hi im AstroBolo/Cyber Coding the creator of projects like H.A.L and more
 <br>
 # H.A.L
 <a href="https://github.com/AstroBolo/H.A.L">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBolo&repo=H.A.L&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBolo&repo=H.A.L&theme=synthwave" />
 </a>
