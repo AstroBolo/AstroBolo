@@ -10,6 +10,8 @@ Hi im AstroBolo/Cyber Coding the creator of projects like H.A.L and more
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroBolo&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<br>
+# H.A.L
+<a href="https://github.com/AstroBolo/H.A.L">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBolo&repo=H.A.L&theme=buefy" />
 </a>
